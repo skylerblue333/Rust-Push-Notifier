@@ -1,0 +1,1 @@
+fn main() {\n    println!("Starting Rust-Push-Notifier service...");\n}\n
